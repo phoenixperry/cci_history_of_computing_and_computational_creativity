@@ -82,7 +82,7 @@ Witchcraft, Gender, & Marxism https://www.youtube.com/watch?v=tmk47kh7fiE
 
 ------
 
-### When did the ideas in computer science start? 
+### ## Week 1 - When did the ideas in computer science start? 
 
 To start any good story, we need to begin at the beginning. To understand the problems, we need to understand the ideas first. What is about to follow is a collection of ideas, some from Simon Penny's Making Sense, some from Caliban and the Witch, some from my general understanding of colonialism I first got from Edward Said and Octavia Butler
 
