@@ -269,6 +269,7 @@ Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Ed
 
 ### Homework: 
 Creative brief: What was the test Turing faced? Research the life of Alan Turing. Deconstruct how the government treated him after the war and compare it with the lense of texts above. Did structural misogyny impact his life? Consider the cost of enforced ideas of masculinity in a society. Write a paragraph and be prepared to share it with the group next week. 
+https://bletchleypark.org.uk/news/alan-turing
 
 What does it mean to deconstrut something? 
 https://www.youtube.com/watch?v=vgwOjjoYtco 
