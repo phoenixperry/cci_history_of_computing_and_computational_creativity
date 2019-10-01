@@ -239,7 +239,7 @@ https://www.youtube.com/watch?v=ASfAPOiq_eQ
 To read more about all the devices: 
 https://www.cryptomuseum.com/crypto/enigma/hist.htm 
 
-We needed a computer to attempt to brute force de-encrypt the messages. That machine is Colossus and it was pivotal to cracking what became known as the Enigma Code. Alan Turring was the lead engineer.
+We needed a computer to attempt to brute force de-encrypt the messages. The development of the computers at Bletchley Park was pivotal to cracking what became known as the Enigma Code. Alan Turring was a lead engineer.
 
 It was programmed largely by women: https://www.theguardian.com/careers/2018/jul/24/meet-the-female-codebreakers-of-bletchley-park
 
