@@ -8,23 +8,26 @@
 - Check github for all homework, reading lists and other resources  
 - My office hours can be booked [here](http://phoenixperry.youcanbook.me)
 
+---
+### What is this class about 
 Where do computers come from and what is computational creativity? This unit aims to give you a solid understanding of what computers are, where they came from and how they have led to specific forms of creative practice. 
 
 The development of the computers we use today has a varied and interesting history connected to many aspects of the cultural history of the 20th and 21st century. This unit explores the visions for computing that the pioneers of computational technology had when they invented modern computing and how certain values become more dominant over time and why. The unit also explores the impact of women in the development of computing as it has become clear in recent years that important contributions from women have been overlooked.
 
 With an understanding of how computational technologies came to be, this unit examines how specific forms of creative practice have evolved in parallel and how a new computational materiality has developed as a result. We will also examine ideas that underpin auto-generative practices in art and design and how technologies such as machine learning have led some to speculate about the creativity of AI systems.
+--- 
 
 ### Learning Outcomes 
-
+---
 - Demonstrate a critical awareness of the history of computing. **(Research)**
 - Articulate ideas of computational creativity. **(Analysis)**
 
 ### Assessment 
-
+---
 **An academic essay of 1000 words** exploring the creative practice and process of a particular computational practitioner. **(100%)**  
 
 ### Important Dates 
-
+--- 
 Your final essay will be due the last date of class. More on this as we go along.  
 
 - 04 Nov - receive essay briefing (in class)
@@ -33,7 +36,7 @@ Your final essay will be due the last date of class. More on this as we go along
 - 27 Jan - submit final draft
 
 **Some of the Essential Reading** 
-
+---
 Abbate, J. (2012) Recoding Gender: Women’s Changing Participation in Computing. MIT Press.
 
 Dourish, P. (2017) The Stuff of Bits: An Essay on the Materialities of Information. MIT Press.
@@ -45,7 +48,7 @@ Hicks, M. (2017) Programmed Inequality: How Britain Discarded Women Technologist
 Frosio, G. (2018) Reconciling Copyright with Cumulative Creativity: The Third Paradigm. Edward Elgar Publishing.
 
 **Further Reading**
-
+--- 
 Dourish, P. and Bell, G. (2011) Divining a Digital Future: Mess and Mythology in Ubiquitous Computing. MIT Press.
 
 Filimowicz, M. and Tzankova, V. (2017) Teaching Computational Creativity. Cambridge University Press.
@@ -57,21 +60,22 @@ Levy, S. (2010) Hackers: Heroes of the Computer Revolution - 25th Anniversary Ed
 O’Regan, G. (2012) A Brief History of Computing. Springer Science & Business Media.
 
 **Periodicals**
-
+---
 Interactions / MIT Technology Review / Wired.
 
 **Web Ref:**
-
+---
 http://dougengelbart.org
 
 http://dougengelbart.org/content/view/138/000/ 
-
+---
 ### Week 1: Navigation, Sugar, Gender, Slavery and Computation - How we got in this hot mess 
+---
 
-This week we are covering the basic topics we'll discuss all term in the form of an overview. 
+Overview: This week we are covering the basic topics we'll discuss all term in the form of an overview. 
 ![dogburn](https://media0.giphy.com/media/VOq7iem25Z94Y/giphy.gif?cid=790b761179a5f3b8661ca7f63905775ccca96f8cbca5df8b&rid=giphy.gif)
 
-In class, we will be reading / watching the following texts: 
+In class, we will be reading and watching the following texts: 
 
 ------
 
@@ -80,9 +84,9 @@ Data for Black Lives: Data for Black Lives - Opening Remarks (jump to 15 mins in
 The Stuff of Bits: An Essay on the Materialities of Information Paul Dourish. Introduction 
 Witchcraft, Gender, & Marxism https://www.youtube.com/watch?v=tmk47kh7fiE
 
-------
-
+---
 ## Week 1 - When did the ideas in computer science start? 
+--- 
 
 To start any good story, we need to begin at the beginning. To understand the problems, we need to understand the ideas first. What is about to follow is a collection of ideas, some from Simon Penny's Making Sense, some from Caliban and the Witch, some from my general understanding of colonialism I first got from Edward Said and Octavia Butler
 
@@ -108,7 +112,8 @@ Sidney Mintz. 1985. Sweetness and Power: The Place of Sugar in Modern History.
 
 #### Navigation as Computation 
 
-How do you represent a round surface on a flat plane to make a western map? It must be projected ![The Mercator projection 1569](https://upload.wikimedia.org/wikipedia/commons/7/73/Mercator_projection_Square.JPG)
+How do you represent a round surface on a flat plane to make a western map? It must be projected. Meet the The Mercator projection from 1569. 
+![The Mercator projection 1569](https://upload.wikimedia.org/wikipedia/commons/7/73/Mercator_projection_Square.JPG)
 
 Cost? It becomes wildly inaccurate at the poles. 
 Other tools used to collect data, campus, nautical chart, protractors, parallel rulers, charts - all of this forms a very early analog system of computation
@@ -206,20 +211,24 @@ Each assumes different understandings of reality and each understanding makes so
 
 https://www.youtube.com/watch?v=PU_WDouhkw8
 
-Homework: 
+### Homework: 
 
-Reading: 
+*** Reading: *** 
 
 Materializing New Media: Embodiment in Information Aesthetics by Anna Munster pgs 1 - 15 
 Making Sense by Simon Penny. Intermezzo. 
 
 Plus: Chapter 1 of Paul Dourish's The Stuff of Bits
 
+*** Videos *** 
 Watch: Data for Black Lives - Opening Remarks by Ruha Benjamin
 https://www.youtube.com/watch?v=TrEiEjjt7v4 
 Jump 15 mins in to start off. 
 
+--- 
+
 ## Week 02 The late 1800's to WW2 and the start of modern computing  
+-- 
 
 In 1801 the Frenchman Joseph Marie Jacquard invented a power loom that could base its weave (and hence the design on the fabric) upon a pattern automatically read from punched wooden cards, held together in a long row by rope. Descendants of these punched cards have been in use ever since (remember the "hanging chad" from the Florida presidential ballots of the year 2000?). 
 
