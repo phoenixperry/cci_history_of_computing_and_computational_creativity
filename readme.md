@@ -15,8 +15,8 @@ Where do computers come from and what is computational creativity? This unit aim
 The development of the computers we use today has a varied and interesting history connected to many aspects of the cultural history of the 20th and 21st century. This unit explores the visions for computing that the pioneers of computational technology had when they invented modern computing and how certain values become more dominant over time and why. The unit also explores the impact of women in the development of computing as it has become clear in recent years that important contributions from women have been overlooked.
 
 With an understanding of how computational technologies came to be, this unit examines how specific forms of creative practice have evolved in parallel and how a new computational materiality has developed as a result. We will also examine ideas that underpin auto-generative practices in art and design and how technologies such as machine learning have led some to speculate about the creativity of AI systems.
---- 
 
+--- 
 ### Learning Outcomes 
 ---
 - Demonstrate a critical awareness of the history of computing. **(Research)**
@@ -93,7 +93,7 @@ Witchcraft, Gender, & Marxism https://www.youtube.com/watch?v=tmk47kh7fiE
 
 To start any good story, we need to begin at the beginning. To understand the problems, we need to understand the ideas first. What is about to follow is a collection of ideas, some from Simon Penny's Making Sense, some from Caliban and the Witch, some from my general understanding of colonialism I first got from Edward Said and Octavia Butler
 
-#### History of maps 
+### History of maps 
 
 •Astronomy, mapping, and cartography were major sciences in Islamic culture and Europeans on the edge of the Islamic world also developed an interest. 
 
@@ -113,7 +113,7 @@ To start any good story, we need to begin at the beginning. To understand the pr
 
 Sidney Mintz. 1985. Sweetness and Power: The Place of Sugar in Modern History. 
 
-#### Navigation as Computation 
+### Navigation as Computation 
 
 How do you represent a round surface on a flat plane to make a western map? It must be projected. Meet the The Mercator projection from 1569. 
 ![The Mercator projection 1569](https://upload.wikimedia.org/wikipedia/commons/7/73/Mercator_projection_Square.JPG)
@@ -128,7 +128,6 @@ These sort of tools and systems of computing space are the fundamental building 
 A god view. You are fundamentally outside of this map looking down like a god. You are disembodied from the space you are viewing. The world becomes the other. 
 
 ![engage god mode](https://media1.giphy.com/media/QuAfzNbVqIcLe/giphy.gif?cid=790b76112fbd2aaf1d02cc3aa32a7bdc2c5ab7c94caa0b51&rid=giphy.gif)
-
 
 
 **Where did this concept of nature come from?**  
@@ -229,7 +228,6 @@ https://www.youtube.com/watch?v=TrEiEjjt7v4
 Jump 15 mins in to start off. 
 
 --- 
-
 ## Week 02 The late 1800's to WW2 and the start of modern computing  
 -- 
 
