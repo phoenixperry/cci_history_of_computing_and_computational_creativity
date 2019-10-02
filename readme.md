@@ -68,8 +68,10 @@ Interactions / MIT Technology Review / Wired.
 http://dougengelbart.org
 
 http://dougengelbart.org/content/view/138/000/ 
+
+
 ---
-### Week 1: Navigation, Sugar, Gender, Slavery and Computation - How we got in this hot mess 
+### Week 1: Navigation, Sugar, Gender, Slavery and Computation 
 ---
 
 Overview: This week we are covering the basic topics we'll discuss all term in the form of an overview. 
