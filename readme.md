@@ -84,6 +84,7 @@ Data for Black Lives: Data for Black Lives - Opening Remarks (jump to 15 mins in
 The Stuff of Bits: An Essay on the Materialities of Information Paul Dourish. Introduction 
 Witchcraft, Gender, & Marxism https://www.youtube.com/watch?v=tmk47kh7fiE
 
+
 ---
 
 ## Week 1 - When did the ideas in computer science start? 
