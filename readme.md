@@ -9,6 +9,7 @@
 - Contact me via the UAL Creative Computing Institute Slack or at phoenix.perry@arts.ac.uk 
 - Check github for all homework, reading lists and other resources  
 - My office hours can be booked [here](http://phoenixperry.youcanbook.me)
+- Use this github for all class resources, minus submitted assignments, which will be explained closer to the due date. 
 
 ---
 ### What is this class about 
@@ -33,6 +34,11 @@ Be present.
 Unexcused abscesses are unacceptable as is late work. You will find I am understanding if you have real reasons for needing to miss class. However, these must be discussed with me and cannot become excessive. Just not turning up will negatively impact your grade.
 
 --- 
+### Class Policy 
+---
+I require a respectful, safe and productive environment to be maintained in this classroom at all times. Beyond that, sustained disruption during presentations or lectures or general offensive behavior will not be tolerated.
+
+--- 
 ## Evaluation 
 --- 
 I care about your competence, your passion, your bravery, your curiosity, your civic spirit, your generosity, your critical questioning and your moral compass.
@@ -41,15 +47,12 @@ I take for granted you will successfully fulfill the objectives above which are 
 
 It is the other areas here that I am curious to watch you explore and begin to understand. 
 
---- 
-### Class Policy 
----
-I require a respectful, safe and productive environment to be maintained in this classroom at all times. Beyond that, sustained disruption during presentations or lectures or general offensive behavior will not be tolerated.
-
 ---
 ### Assessment 
 ---
 **An academic essay of 1000 words** exploring the creative practice and process of a particular computational practitioner. **(100%)**  
+
+[UAL's Assessment Policy](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment)
 
 ---
 ### Important Dates (TBD - guide only thus far)
