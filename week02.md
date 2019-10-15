@@ -71,7 +71,6 @@ https://bletchleypark.org.uk/news/alan-turing
 
 ### Deconstruction 
 What does it mean to deconstrut something? 
-
 https://www.youtube.com/watch?v=HKJlSY0DBBA
 
 
