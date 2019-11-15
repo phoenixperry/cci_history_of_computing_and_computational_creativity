@@ -50,7 +50,7 @@ It is the other areas here that I am curious to watch you explore and begin to u
 ---
 ### Assessment 
 ---
-**An academic essay of 1000 words** exploring the creative practice and process of a particular computational practitioner. **(100%)**  
+**An academic essay of 2000 words** exploring the creative practice and process of a particular computational practitioner. **(100%)**  
 
 [UAL's Assessment Policy](https://www.arts.ac.uk/study-at-ual/academic-regulations/course-regulations/assessment)
 
@@ -62,7 +62,7 @@ Your final essay will be due the last date of class. More on this as we go along
 - 04 Nov - receive essay briefing (in class)
 - 25 Nov - submit first draft
 - 06 Jan - receive feedback on 1st draft
-- 27 Jan - submit final draft
+- 27 Jan - submit final essay
 
 --- 
 Teaching Modes | Time | Activities 
